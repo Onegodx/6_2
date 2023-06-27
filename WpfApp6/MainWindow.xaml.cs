@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-//Миньков Владимир 22исп21 базовый уровень 6_2 14 вариант
+//Миньков Владимир 22исп21 базовый уровень 7    14 вариант
 namespace WpfApp1
 {
     public partial class MainWindow : Window
